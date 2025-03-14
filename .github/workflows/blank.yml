@@ -21,4 +21,4 @@ jobs:
         run: pip install -r requirements.txt  # Se necessário
 
       - name: Executar código
-        run: python seu_script.py  # Substitua pelo seu script
+        run: python testGit.py  # Substitua pelo seu script
